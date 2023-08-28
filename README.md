@@ -1,4 +1,3 @@
-
 [This is the link to the lesson](https://www.codecademy.com/courses/learn-bootstrap/lessons/learn-bootstrap-utilities-components/exercises/adding-a-card)
 
 # LEARN BOOTSTRAP 4: UTILITIES AND COMPONENTS
@@ -20,6 +19,7 @@
 </div>
 
 ```
+
 > Let’s highlight a few key points from the example:
 
 - To make a card component we need to assign a class of "card" to an element.
@@ -28,8 +28,7 @@
 - The <div> has a class of "card-body" which adds a section with default padding.
 - The content inside the card body all have classes with "card-{value}" which adds styling to these elements specific for Bootstrap cards.
 - By default, this card will take up the entire width of its parent element.
-> Let’s add some of our own cards, remember to check [Bootstrap’s card documentation](https://getbootstrap.com/docs/4.2/components/card/#example) for more customizations!
+  > Let’s add some of our own cards, remember to check [Bootstrap’s card documentation](https://getbootstrap.com/docs/4.2/components/card/#example) for more customizations!
 
-
-
-
+memory jog
+/c/Users/glads/Documents/PROJECTS_AT_CODECADEMY/LEARN-BOOTSTRAP-4_UTILITIES-AND-COMPONENTS-Adding-a-Card
